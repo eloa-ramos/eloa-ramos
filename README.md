@@ -1,14 +1,5 @@
 ### Bem-Vindo
-Meu nome é Eloá Ramos  </br>
-Tenho 16 anos </br>
-E atualmente estou cursando Desenvolvimento de Sistemas na ETEC Ilza Nascimento Pintus </br>
 
-
-<!--
-### Welcome
-My name is Eloá Ramos
-I am 16 years old
-And I´m currently........................  -->
 
 <!--
 **eloa-ramos/eloa-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
